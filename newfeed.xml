@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Погода v1.0</title>
+    <pubDate>Sat, 08 May 2021 12:49:48 +0300</pubDate>
+    <lastBuildDate>Sat, 08 May 2021 12:49:48 +0300</lastBuildDate>
+    <item>
+      <guid>0</guid>
+      <title>Прогноз погоды на 08.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 13.5547м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 3.8214м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 6.1℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 2.9℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 8.2℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 20%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 61%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c03d.png</image>
+    </item>
+    <item>
+      <guid>1</guid>
+      <title>Прогноз погоды на 09.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 7.83595м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 2.21037м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 7.6℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 1.5℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 13℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 0%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 60%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c02d.png</image>
+    </item>
+    <item>
+      <guid>2</guid>
+      <title>Прогноз погоды на 10.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 11.2061м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 3.04243м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 12.5℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 5.6℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 19.1℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 0%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 54%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c02d.png</image>
+    </item>
+    <item>
+      <guid>3</guid>
+      <title>Прогноз погоды на 11.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 13м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 5.28397м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 12.8℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 7.3℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 18.6℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 0%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 63%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c03d.png</image>
+    </item>
+    <item>
+      <guid>4</guid>
+      <title>Прогноз погоды на 12.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 11.7109м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 4.85593м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 12.9℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 7.5℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 19.3℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 10%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 72%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c02d.png</image>
+    </item>
+    <item>
+      <guid>5</guid>
+      <title>Прогноз погоды на 13.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 10.8125м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 5.04702м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 12.1℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 7.9℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 15.6℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 35%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 73%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c03d.png</image>
+    </item>
+    <item>
+      <guid>6</guid>
+      <title>Прогноз погоды на 14.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 10.4219м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 4.48875м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 13.7℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 9.6℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 18.5℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 90%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 84%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/r01d.png</image>
+    </item>
+    <item>
+      <guid>7</guid>
+      <title>Прогноз погоды на 15.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 9.71094м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 3.96099м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 14.1℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 10.2℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 19.2℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 65%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 79%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c02d.png</image>
+    </item>
+    <item>
+      <guid>8</guid>
+      <title>Прогноз погоды на 16.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 5.5м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 2.93934м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 12.8℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 9.1℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 16.3℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 60%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 79%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c03d.png</image>
+    </item>
+    <item>
+      <guid>9</guid>
+      <title>Прогноз погоды на 17.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 3.03711м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 1.62971м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 14.5℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 8.5℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 20.4℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 20%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 69%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c02d.png</image>
+    </item>
+    <item>
+      <guid>10</guid>
+      <title>Прогноз погоды на 18.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 9.5м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 4.35724м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 15.4℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 12.1℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 21.5℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 10%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 79%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c02d.png</image>
+    </item>
+    <item>
+      <guid>11</guid>
+      <title>Прогноз погоды на 19.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 10.6016м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 5.45571м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 12.4℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 6.6℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 17.5℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 10%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 59%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c01d.png</image>
+    </item>
+    <item>
+      <guid>12</guid>
+      <title>Прогноз погоды на 20.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 4.69922м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 1.83838м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 12.6℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 8℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 18.1℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 0%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 56%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c01d.png</image>
+    </item>
+    <item>
+      <guid>13</guid>
+      <title>Прогноз погоды на 21.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 11.1094м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 5.3808м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 10.5℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 1.5℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 13.6℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 0%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 59%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c02d.png</image>
+    </item>
+    <item>
+      <guid>14</guid>
+      <title>Прогноз погоды на 22.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 11.9141м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 6.69735м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 6.1℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 1.1℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 10.8℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 35%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 62%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c02d.png</image>
+    </item>
+    <item>
+      <guid>15</guid>
+      <title>Прогноз погоды на 23.05.2021</title>
+      <description>&#13;
+        &lt;div&gt;&#13;
+            &lt;div class="wind_gust_spd"&gt;Скорость порыва ветра: 14.5234м/с&lt;/div&gt;&#13;
+            &lt;div class="wind_spd"&gt;Скорость ветра: 7.92023м/с&lt;/div&gt;&#13;
+            &lt;div class="temp"&gt;Средняя температура: 7.1℃&lt;/div&gt;&#13;
+            &lt;div class="min_temp"&gt;Минимальная температура: 5.6℃&lt;/div&gt;&#13;
+            &lt;div class="max_temp"&gt;Максимальная температура: 12.3℃&lt;/div&gt;&#13;
+            &lt;div class="pop"&gt;Вероятность осадков: 20%&lt;/div&gt;&#13;
+            &lt;div class="rh"&gt;Средняя относительная влажность: 55%&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    </description>
+      <image>https://www.weatherbit.io/static/img/icons/c02d.png</image>
+    </item>
+  </channel>
+</rss>
+
+int(1)
